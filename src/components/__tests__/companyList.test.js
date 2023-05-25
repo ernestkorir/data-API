@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from '@testing-library/react';
 import { useDispatch, useSelector } from 'react-redux';
-import CompaniesList from '../CompaniesList';
+import CompaniesList from '../companiesList';
 import '@testing-library/jest-dom';
 import { getCompaniesAsync } from '../../redux/companies/companiesSlice';
 
