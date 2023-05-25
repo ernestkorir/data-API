@@ -1,5 +1,5 @@
 .companies-list {
-  font-family: 'gill sans';
+  font-family: 'Gill Sans', sans-serif;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   width: 100%;
@@ -58,7 +58,7 @@
 
 @media only screen and (min-width: 768px) {
   .companies-list {
-    font-family: 'gill sans';
+    font-family: 'Gill Sans', sans-serif;
     grid-template-columns: repeat(3, 1fr);
     margin-bottom: 30px;
   }
