@@ -14,14 +14,16 @@ const CompaniesList = () => {
 
   return (
     <div className="companies-list">
-      {companies.map((company) => (
-        <CompanyButton
-          key={company.id}
-          name={company.name}
-          rank={company.rank}
-        />
-      ))}
-    </div>
+    {companies.map((company) => {
+      const rankAsString = String(company.rank); // Convert rank to string
+
+      return React.createElement(CompanyButton, {
+        key: company.id,
+        name: company.name,
+        rank: rankAsString,
+      });
+    })}
+  </div>
   );
 };
 
