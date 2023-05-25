@@ -6,7 +6,7 @@ import {
   getCompanyProfileAsync,
   clearCompanyProfile,
 } from '../redux/companies/companiesSlice';
-// import './styles/Search.css';
+import './styles/Search.css';
 
 const Search = () => {
   const [searchTerm, setSearchTerm] = useState('');

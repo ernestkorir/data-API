@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { getCompaniesAsync } from '../redux/companies/companiesSlice';
 import CompanyButton from './CompanyButton';
-// import './styles/CompaniesList.css';
+import './styles/CompaniesList.css';
 
 const CompaniesList = () => {
   const dispatch = useDispatch();

@@ -4,7 +4,7 @@ import { BsFillMicFill } from 'react-icons/bs';
 import { AiOutlineSetting } from 'react-icons/ai';
 import { useDispatch } from 'react-redux';
 import { clearCompanyProfile } from '../redux/companies/companiesSlice';
-// import './styles/NavBar.css';
+import './styles/NavBar.css';
 
 const NavBar = () => {
   const navigate = useNavigate();

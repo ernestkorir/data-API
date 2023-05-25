@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import { useDispatch } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { getCompanyProfileAsync } from '../redux/companies/companiesSlice';
-// import './styles/CompaniesList.css';
+import './styles/CompaniesList.css';
 
 const CompanyButton = ({ name, rank }) => {
   const dispatch = useDispatch();

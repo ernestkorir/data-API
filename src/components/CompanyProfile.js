@@ -1,6 +1,6 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
-// import './styles/CompanyProfile.css';
+import './styles/CompanyProfile.css';
 
 const CompanyProfile = () => {
   const companyProfiles = useSelector((state) => state.company.companyProfiles);
