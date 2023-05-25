@@ -60,6 +60,9 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 [Click here](https://data-api-xgrb.onrender.com/)
+[Loom Video](https://www.loom.com/share/c188505636f14e41988d518376768cf5)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
