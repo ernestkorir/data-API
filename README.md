@@ -188,7 +188,6 @@ If you like this project then don't forget to give a star ⭐ on this repository
 
 > Give credit to everyone who inspired your codebase.
 
-- Would like to thank Microveverse for the Project
 - I would like to thank (Nelson Sakwa)[https://www.behance.net/sakwadesignstudio] for his magical design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -199,7 +198,7 @@ If you like this project then don't forget to give a star ⭐ on this repository
 
 - **Is the page compatible with mobile**
 
-  - Yes, the webpage is a resonsive page that can be displayed on most devices in use today.
+  - Yes, the webpage is a responsive page that can be displayed on most devices in use today.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
